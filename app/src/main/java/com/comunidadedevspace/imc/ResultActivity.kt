@@ -32,7 +32,6 @@ class ResultActivity : AppCompatActivity() {
                 "NORMAL" to R.color.green
 
             }
-
             result > 25f && result <= 29.9f -> {
                 "OVERWEIGHT" to R.color.yellow
 
